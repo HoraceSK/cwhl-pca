@@ -12,7 +12,7 @@ import xlwt
 import numpy as np
 import pandas as pd
 import matplotlib as mpl
-mpl.rcParams['font.sans-serif'] = ['FangSong']
+# mpl.rcParams['font.sans-serif'] = ['FangSong']
 # from sklearn import preprocessing
 
 fdir=r'./data/GLofChewang2017.xlsx'
